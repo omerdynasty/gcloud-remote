@@ -13,11 +13,11 @@
 
 *Aşağıdaki kod ile scripti indirin*
 
-`wget https://github.com/omerdynasty/gcloud-remote/blob/main/gcremote.sh`
+`curl https://raw.githubusercontent.com/omerdynasty/gcloud-remote/main/gcremote.sh -o gcremote.sh`
 
 *Buna benzer bir çıktı aldığınıza emin olun*
 
-![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/a4d3004e-66b4-4fae-bc5f-f7c293f54c3a)
+![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/e9eb65ca-d702-44bd-a941-2213403755b2)
 
 **Asağıdaki kod ile scripti çalıştırın*
 
