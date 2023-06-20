@@ -61,7 +61,8 @@
 
 ![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/1e7040e2-b4be-400b-9e0f-2e47172e702d)
 
-
+> Not: Cloud Shell bu ayarları tutmaz ve bir süre sonra siler. O yüzden bunu her kullanmak istediğinizde yapmanız gerekebilir.
+> Fakat script bir kez indirildiğinde tekrar silinmez.
 
 
 
