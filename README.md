@@ -77,6 +77,13 @@
 
 ![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/1308e03f-cd49-41b7-b289-b36897ef9297)
 
+## Bilinen Sorunlar
+
+1. Şifre size terminalde zaten sorulacak o şifreyi kullanarak remote desktopa girebilirsiniz özel bir şifre yok
+2. Eğer V0.1 kullanıyorsanız paketler güncellenmedigi icin Chromium kurulmayabilir.
+3. Wget, git ve curl bağımlılıkları eksik ise bazı kısımlar sorunlu çalışacaktır
+
+
 
 
 
