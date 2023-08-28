@@ -6,7 +6,7 @@
 # [YAKIN ZAMANDA LXQT ILE COK HIZLI VE DAHA KULLANISLI HALI EKLENECEKTIR] 
 
 `wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb && sudo apt install ./chrome-remote-desktop_current_amd64.deb`
-**Sadece terminal ile Chrome Remote Desktop kullanmak isteyenler sadece bu kodu terminala yazabilir**
+**Sadece terminal ile Chrome Remote Desktop kullanmak isteyenler bu kodu terminala yazabilir scripte ihtiyaç kalmaz**
 
 ### Nasıl Kullanılır?
 
