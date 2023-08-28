@@ -87,7 +87,7 @@
 
 1. Sizden şifre belirlemeniz istendiğinde anlarsınız
 2. V0.2 sürümüne geçin, ayrıca Firefox-ESR kurulacak
-3. `sudo apt install wget` `sudo apt install git` `sudo apt install curl`
+3. `sudo apt update && sudo apt ugrade && sudo apt install wget && sudo apt install git && sudo apt install curl`
 
 
 
