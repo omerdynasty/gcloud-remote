@@ -3,6 +3,8 @@ echo By OmerDynasty
 echo ========================
 echo     GCLOUD REMOTE
 echo ========================
+echo BAZI SORUNLARI ONLEYEBILMEK ICIN OTOMATIK PAKETLER GUNCELLENECEK
+sudo apt update && sudo apt upgrade
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 sudo apt install ./chrome-remote-desktop_current_amd64.deb
 sudo DEBIAN_FRONTEND=noninteractive \
