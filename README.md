@@ -1,4 +1,6 @@
 # Google Cloud Shell Remote Destkop
+*BETA V0.2*
+*CHROMIUM YERINE FIREFOX-ESR KURULACAK AYRICA OTOMATIK PAKETLERI GÜNCELLEME EKLENDI*
 ## Bu script ile Google'ın ücretsiz sunduğu Cloud Shell hizmetini kullanarak ücretsiz bir sanal makina elde edersiniz.
 
 # [YAKIN ZAMANDA LXQT ILE COK HIZLI VE DAHA KULLANISLI HALI EKLENECEKTIR] 
