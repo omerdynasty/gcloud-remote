@@ -83,6 +83,12 @@
 2. Eğer V0.1 kullanıyorsanız paketler güncellenmedigi icin Chromium kurulmayabilir.
 3. Wget, git ve curl bağımlılıkları eksik ise bazı kısımlar sorunlu çalışacaktır
 
+## Çözümleri
+
+1. Sizden şifre belirlemeniz istendiğinde anlarsınız
+2. V0.2 sürümüne geçin, ayrıca Firefox-ESR kurulacak
+3. `sudo apt install wget` `sudo apt install git` `sudo apt install curl`
+
 
 
 
