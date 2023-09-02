@@ -3,6 +3,7 @@
 # YENİ YÖNTEM İLE SCRIPT KULLANMAYA GEREK YOKTUR
 
 `docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc`
+
 *İşlemler tamamlandıktan sonra...*
 
 ![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/2160d002-176a-4c1e-8099-06ccee5e2089)
