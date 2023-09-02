@@ -1,9 +1,13 @@
 # Google Cloud Shell Remote Destkop
-*BETA V0.2*
-*CHROMIUM YERINE FIREFOX-ESR KURULACAK AYRICA OTOMATIK PAKETLERI GÜNCELLEME EKLENDI*
-## Bu script ile Google'ın ücretsiz sunduğu Cloud Shell hizmetini kullanarak ücretsiz bir sanal makina elde edersiniz.
+ESKI XFCE SCRIPT *BETA V0.2*
+NEW LXDE SCRIPT *INDEV V0.1*
 
-# [YAKIN ZAMANDA LXQT ILE COK HIZLI VE DAHA KULLANISLI HALI EKLENECEKTIR] 
+# YENI SCRIPT YÖNERGELERİ
+
+# ESKI SCRIPT İÇİN YÖNERGELER
+
+
+## Bu script ile Google'ın ücretsiz sunduğu Cloud Shell hizmetini kullanarak ücretsiz bir sanal makina elde edersiniz.
 
 `wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb && sudo apt install ./chrome-remote-desktop_current_amd64.deb`
 **Sadece terminal ile Chrome Remote Desktop kullanmak isteyenler bu kodu terminala yazabilir scripte ihtiyaç kalmaz**
@@ -20,20 +24,9 @@
 
 *Aşağıdaki kod ile scripti indirin*
 
-`curl https://raw.githubusercontent.com/omerdynasty/gcloud-remote/main/gcremote.sh -o gcremote.sh`
+`curl https://raw.githubusercontent.com/omerdynasty/gcloud-remote/main/gcremote.sh -o gcremote.sh && sh gcremote.sh`
 
-*Buna benzer bir çıktı aldığınıza emin olun*
-
-![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/e9eb65ca-d702-44bd-a941-2213403755b2)
-
-*Asağıdaki kod ile scripti çalıştırın*
-
-`sh gcremote.sh`
-
-*Bu yazıya kadar kurulumları yapın*
-
-![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/d7edf4fc-54c1-49c9-8a99-29eb938b48a7)
-
+--- [ BU KISIMDAN SONRA SCRIPT KURULUMU TAMAMLANMIŞTIR PAKETLER GÜNCELLENMİŞ VE FİREFOX KURULMUŞTUR ] ---
 *Chrome Remote Desktop üzerinde bu kısma gelin*
 
 ![image](https://github.com/omerdynasty/gcloud-remote/assets/74985599/d2123bbe-6397-465e-872c-34b714c50172)
