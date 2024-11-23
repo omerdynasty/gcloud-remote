@@ -1,8 +1,8 @@
-# BU PROJE İÇİN DAHA FAZLA GELİŞTİRME YAPILMAYACAKTIR
+# BU PROJE İÇİN DAHA FAZLA GELİŞTİRME YAPILMAYACAKTIR!
 
 # Google Cloud Shell Remote Destkop
 
-# YENİ YÖNTEM İLE SCRIPT KULLANMAYA GEREK YOKTUR
+## YENİ YÖNTEM İLE SCRIPT KULLANMAYA GEREK YOKTUR
 
 `docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc`
 
@@ -13,7 +13,7 @@
 Bu kısımdan "Change Port" yazısına tıklayın ve ardından port olarak "6070" yazın.
 Tekrar aynı menüye girdikten sonra "Preview on port 6070" yazısına tıklarsanız çalışacaktır.
 
-# ESKI SCRIPT
+## ESKI SCRIPT
 `curl https://raw.githubusercontent.com/omerdynasty/gcloud-remote/main/gcremote.sh -o gcremote.sh && sh gcremote.sh`
 
 
